@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.18.0/font/bootstrap-icons.css" rel="stylesheet');
+
 
 
 html, 
@@ -58,4 +60,19 @@ img {
   padding: 10px;
   border-radius: 10%;
   margin-right: 100px;
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+
+}
+
+.bi-envelope-at, .bi-linkedin, .bi-github {
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+  height: 30px;
 }
