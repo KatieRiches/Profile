@@ -15,36 +15,43 @@ export default function About() {
           <div className="col about">
             <div>
               <p>
-                I am a web developer looking for opportunities to advance my
-                skills in a supportive and engaging network. I have completed
-                the Dev Academy Fullstack Software Development Course. I decided
-                to retrain in software development as the challenge of building
-                products and solving problems largely appeals to me.
+                This is where I am meant to tell you about how great my coding
+                skills are and my motivation. But if you want to see that you
+                are welcome to head over to my Linkedin. It is linked at the
+                bottom of the page.
               </p>
 
               <p>
-                I am a keen learner and my natural inclination to solve problems
-                helps me to contribute functional solutions. I come from the
-                agriculture industry where I have worked both on farm and in
-                agri-business. Some of my most recent work has involved teaching
-                agriculture students of various ages and abilities.
+                This about me is more about the journey I have been through to
+                get here. I grew up in the beautiful high country of the South
+                Island. Danseys Pass specifically. Sheep and beef were our bread
+                and butter, and still are for most of my family. After school I
+                went shepherding and absolutely loved it.
               </p>
 
               <p>
-                From my previous employment I bring with me a variety of skills
-                including translating technical information to clients, critical
-                thinking, adaptability in a fast moving environment and the
-                eagerness to continuously learn and develop. In addition to this
-                I am confident, hardworking and reliable.
+                I studied agri-business at Massey University with the intention
+                of entering the agri-business sector. I did this by working for
+                New Zealand Merino a wool exporting company. Here I realised a
+                huge passion for helping people, and I was hooked.
               </p>
 
               <p>
-                Work/ life balance is important to me as well as an engaging and
-                inclusive environment. Areas I am currently up skilling in
-                include React and TypeScript I am looking for an opportunity to
-                work with a company who shares my values and fosters an
-                environment which supports a continuous improvement mindset and
-                opportunity for growth.
+                I moved into the public sector to pursue this passion. Working
+                firstly for DoC as their local high country, crown pastoral land
+                ranger. Before heading into teaching first with the Central
+                Otago Polytech and then the National Trade Academy. During this
+                period I was getting frustrated with the industry changing so
+                slowly to the challenges it was facing and thought there must be
+                something more helpful I could be doing.
+              </p>
+
+              <p>
+                This is how I ended up in tech. I wanted to pursue something
+                more challenging, which was also moving to address future
+                problems. Tech has the potential to challenge so many of the
+                frustrations and problems we face and this is where I want to
+                be.
               </p>
             </div>
           </div>

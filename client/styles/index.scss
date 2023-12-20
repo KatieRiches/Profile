@@ -26,3 +26,24 @@ img {
   border-radius: 10%;
   background-color: #f8f8f8
 }
+
+.projects {
+  padding: 10px;
+  border-radius: 10%;
+  width: 500px;  
+  height: auto;
+  justify-content: center;
+}
+
+.points {
+  padding: 10px;
+  border-radius: 10%;
+  background-color: #f8f8f8
+}
+
+.icon:hover {
+  background-color: #acbbd8;
+  padding: 10px;
+  border-radius: 10%;
+  margin-right: 100px;
+}
