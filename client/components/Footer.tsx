@@ -1,10 +1,7 @@
+import { Link } from 'react-router-dom'
+
 export default function Footer() {
   return (
-    // <footer className="footer mt-auto py-3 bg-light">
-    //   <div className="container">
-    //     <span className="text-muted">Footer</span>
-    //   </div>
-    // </footer>
     <div className="card text-center">
       <div className="card-header">The important stuff!</div>
       <div className="card-body">
@@ -12,9 +9,9 @@ export default function Footer() {
         <p className="card-text">
           If this resonates with you, feel free to contact me!
         </p>
-        <a href="" className="btn btn-primary">
+        <Link to="/" className="btn btn-light">
           Back to the top!
-        </a>
+        </Link>
       </div>
       <div className="card-footer text-body-secondary">
         Open source code built by Katie Riches
