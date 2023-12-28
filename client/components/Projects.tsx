@@ -9,7 +9,7 @@ export default function Projects() {
         <div className="row">
           <div className="col">
             <h3>Points Project</h3>
-            <p>
+            <p className="points">
               This was a group project that I completed while attending Dev
               Academy. We were asigned free reign to complete a project in 24
               hours. This was also a chance to practice the Agile structure. Our
@@ -50,7 +50,7 @@ export default function Projects() {
           </div>
           <div className="col">
             <h3>Weather App</h3>
-            <p>
+            <p className="points">
               This app I completed after completing the SheCodes Course. It is a
               front-end React Weather app that utilises the OpenWeather API.
               This is one of my earliest introductions to coding and taught me a
@@ -64,8 +64,8 @@ export default function Projects() {
       <div className="container">
         <div className="row">
           <div className="col">
-            <h3>Rate My Pie</h3>
-            <p>
+            <h3 className="pie">Rate My Pie</h3>
+            <p className="points">
               This is my current passion project. The idea was conceived by my
               husband a tradie who works in different locationd everyday. He
               wanted an app that would tell him where the best pie was in each

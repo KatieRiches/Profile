@@ -7,14 +7,14 @@ export default function About() {
         <h1 className="text-center">Katie Riches</h1>
         <div className="container text-center">
           <div className="row">
-            <div className="col image">
+            <div className="col image-about">
               <img
                 src="client/public/images/Katie.png"
                 alt="Katie Riches hiking on a mountain"
               />
             </div>
             <div className="col about">
-              <div>
+              <div className="about">
                 <p>
                   This is where I am meant to tell you about how great my coding
                   skills are and my motivation. But if you want to see that you
