@@ -67,9 +67,9 @@ export default function Projects() {
             <h3 className="pie">Rate My Pie</h3>
             <p className="points">
               This is my current passion project. The idea was conceived by my
-              husband a tradie who works in different locationd everyday. He
+              husband a tradie who works in different locations everyday. He
               wanted an app that would tell him where the best pie was in each
-              new suburb he worked in. In from that simple idea we are now here.
+              new suburb he worked in. From that simple idea we are now here.
             </p>
             <h6>Built with: React, Typescript, Express</h6>
           </div>
