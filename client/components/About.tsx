@@ -9,7 +9,7 @@ export default function About() {
           <div className="row">
             <div className="col image-about">
               <img
-                src="/Users/katieriches/devacademy/workspace/Portfolio/boilerplate-fullstack-query/client/public/images/Katie.png"
+                src="/images/Katie.jpeg"
                 alt="Katie Riches hiking on a mountain"
               />
             </div>

@@ -26,7 +26,7 @@ export default function Projects() {
             >
               <img
                 className="projects"
-                src="/images/points.png"
+                src="/images/points.jpeg"
                 alt="Screenshot of the Points app"
               />
             </Link>
@@ -43,7 +43,7 @@ export default function Projects() {
             >
               <img
                 className="projects"
-                src="/images/weather.png"
+                src="/images/weather.jpeg"
                 alt="Screenshot of the Weather app"
               />
             </Link>
@@ -80,7 +80,7 @@ export default function Projects() {
             >
               <img
                 className="projects"
-                src="/images/pie.png"
+                src="/images/pie.jpeg"
                 alt="Screenshot of the rate my pie app"
               />
             </Link>
