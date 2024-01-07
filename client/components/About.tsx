@@ -9,7 +9,7 @@ export default function About() {
           <div className="row">
             <div className="col image-about">
               <img
-                src="/images/Katie.jpeg"
+                src="/images/Katie.jpg"
                 alt="Katie Riches hiking on a mountain"
               />
             </div>
